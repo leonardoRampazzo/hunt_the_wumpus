@@ -31,16 +31,20 @@ Objetivos:
 * Mate o Wumpus
 * Saia da Caverna
 
-Nosso agente usa um modelog hibrido \n
-Logica proposicional \n
-Busca de resolução de Problemas (Heurística) \n
+Nosso agente usa um modelog hibrido 
+
+Logica proposicional 
+
+Busca de resolução de Problemas (Heurística)
 
 ## How To run
 $pip install -r requirements.txt
+
 $python jogo_mundo_wumpus.py
 
 
 ## Como rodar
 
 $pip install -r requirements.txt
+
 $python jogo_mundo_wumpus.py
