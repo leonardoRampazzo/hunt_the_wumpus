@@ -13,7 +13,9 @@ Objectives:
 * Get Out the cave
 
 Our agent uses a hybrid model 
+
 Porpouse Logic
+
 Search of resolution of problems (heuristc)
 
 
